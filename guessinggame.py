@@ -14,8 +14,7 @@ while not game_over:
             print("Too small.")
         guess+=1
         user=int(input("guess again: "))
-
-    
+        
         
 
 
